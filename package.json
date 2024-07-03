@@ -1,6 +1,7 @@
 {
   "name": "memorygame",
   "version": "0.1.0",
+  "description": "A simple memory game",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",

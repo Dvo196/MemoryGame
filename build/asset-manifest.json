@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/static/js/main.557b45db.js",
+    "static/js/453.0ed4890a.chunk.js": "/static/js/453.0ed4890a.chunk.js",
+    "static/media/feya.png": "/static/media/feya.e987041fb222265ff2f1.png",
+    "static/media/alpachino.png": "/static/media/alpachino.a86663b5e3f9a90f2f75.png",
+    "static/media/shrek.jfif": "/static/media/shrek.9d82352879caf23c60c9.jfif",
+    "static/media/Fiona.png": "/static/media/Fiona.96b0b1e95e129912dd49.png",
+    "static/media/sonny.png": "/static/media/sonny.a54dd60b421b6b0bc408.png",
+    "static/media/fredo.png": "/static/media/fredo.de902342a5b5c2ebd628.png",
+    "static/media/godfather.png": "/static/media/godfather.be8fed746374db7696ca.png",
+    "static/media/hz.png": "/static/media/hz.f0b8567641997d61da30.png",
+    "static/media/fandom.webp": "/static/media/fandom.adcf4a17f01f4e078184.webp",
+    "static/media/esh.jfif": "/static/media/esh.c700c1f301014d4f7dc9.jfif",
+    "index.html": "/index.html",
+    "main.557b45db.js.map": "/static/js/main.557b45db.js.map",
+    "453.0ed4890a.chunk.js.map": "/static/js/453.0ed4890a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.557b45db.js"
+  ]
+}
